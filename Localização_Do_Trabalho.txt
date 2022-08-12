@@ -1,0 +1,6 @@
+Para executar o jogo basta clicar em Projeto_LP.exe
+
+Na pasta Game se encontra as imagens utilizadas. 
+Na Audio está as musicas utilizadas.
+Além do código escrito que se encontra em script.rpy
+ 
