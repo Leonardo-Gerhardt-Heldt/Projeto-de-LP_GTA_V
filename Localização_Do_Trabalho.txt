@@ -1,6 +1,15 @@
-Para executar o jogo basta clicar em Projeto_LP.exe
+Como fazer o Projeto no RenPy rodar:
 
-Na pasta Game se encontra as imagens utilizadas. 
-Na Audio está as musicas utilizadas.
-Além do código escrito que se encontra em script.rpy
+-> Baixar o software no site renpy.org
+->Fazer a instalação, e inicar o aplicativo renpy 
+-> Criar um novo Projeto
+ 	Com resolução de 1280x720 (Pois esta foi a resolução utilizada no meu trabalho)
+-> Abrir o Diretório images e colar todas as imagens disponibilizadas aqui no GitHub
+-> Abrir o Diretório audio e colar os sosn que disponibilizei no GitHub
+
+->Abrir o arquivo scripty.rpy (Fazer o download do Atom ou nao, da pra utilizar outros como o VSCode)
+	Apagar todas as linhas e colar a parte do meu código que foi enviada em scripty.py no GitHub
+	Apertar 'Control+S' para salvar as alterações
+
+Depois disso, abrir o launcher de RenPy e clicar em Executar Projeto
  
